@@ -1,0 +1,5 @@
+# ad_diag.py 的依赖。需要 Python 3.9 及以上（Mac / Linux 上命令一般是 python3）。
+# 已实测：Python 3.13 + pandas 2.2.3 / 3.0.1，输出一致。
+# 安装：python -m pip install -r requirements.txt   （Mac / Linux：python3 -m pip install -r requirements.txt）
+pandas>=2.2
+openpyxl>=3.1   # 只有导出 .xlsx（filter / terms 的 --out）时需要

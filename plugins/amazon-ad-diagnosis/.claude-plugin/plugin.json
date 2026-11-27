@@ -1,0 +1,7 @@
+{
+  "name": "amazon-ad-diagnosis",
+  "description": "亚马逊广告诊断：从领星 ERP 拉广告与销售数据，日/周/月多周期对比 + 搜索词结构 + 西柚内外部归因，输出异常与优化建议（只建议不执行）。",
+  "version": "0.11.0",
+  "author": { "name": "hike" },
+  "keywords": ["amazon", "ppc", "advertising", "lingxing", "xiyou"]
+}

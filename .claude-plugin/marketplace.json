@@ -1,0 +1,17 @@
+{
+  "name": "amazon-seller-tools",
+  "owner": {
+    "name": "hike"
+  },
+  "metadata": {
+    "description": "亚马逊卖家工具插件市场（本地）"
+  },
+  "plugins": [
+    {
+      "name": "amazon-ad-diagnosis",
+      "source": "./plugins/amazon-ad-diagnosis",
+      "description": "亚马逊广告诊断（领星 + 西柚）",
+      "version": "0.11.0"
+    }
+  ]
+}

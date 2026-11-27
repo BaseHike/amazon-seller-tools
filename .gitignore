@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+ad-data/
+*.xlsx
+.DS_Store
+# 私有 ASIN 资料，跟着 skill 文件夹走，不提交
+plugins/*/skills/*/data/
+portable/*/data/
+.pytest_cache/
+.env
+*.log
